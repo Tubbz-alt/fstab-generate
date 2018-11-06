@@ -10,5 +10,5 @@ categories = ["os::unix-apis"]
 keywords = ["linux", "fstab", "generate"]
 
 [dependencies]
-disk-types = { git = "https://github.com/pop-os/disk-types" }
+disk-types = "0.1.0"
 partition-identity = "0.1.2"
